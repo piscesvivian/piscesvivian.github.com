@@ -10,8 +10,8 @@ highlighter: pygments
 #
 title : Vivian's Blog
 tagline: "A random theme for Jekyll + Jekyll-Bootstrap."
-author : Dave Hulihan
-  name : hooligan
+author : 
+  name : Dave Hulihan
   email : dhulihan@gmail.com
   github : piscesvivian
   twitter : piscesvivian
